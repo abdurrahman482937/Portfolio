@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Abdur Rahman was an absolute pleasure. His technical expertise, creative problem-solving, and dedication to excellence elevated our project to new heights. If you’re looking for a developer who delivers beyond expectations, he’s your go-to person.",
+    name: "Samantha Lee",
+    title: "CEO of TechWave Innovations",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Abdur Rahman was a game-changer for our online platform. His attention to detail, prompt communication, and mastery of modern web technologies made all the difference. I highly recommend him for any project requiring top-notch development skills.",
+    name: "David Thompson",
+    title: "CTO of Visionary Ventures",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Abdur Rahman’s approach to web development is both innovative and reliable. He delivered exceptional results that not only met but exceeded our expectations. His commitment to quality and timely execution truly stands out.",
+    name: "Emily Carter",
+    title: "Marketing Director at BrightSpark Media",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Our experience with Abdur Rahman was fantastic. He translated our vision into a dynamic, user-friendly website with remarkable ease. His professionalism and skillful execution ensured the project was a complete success.",
+    name: "Laura Ramirez",
+    title: "Product Manager at Innovatech Solutions",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "DevStudio’s technical acumen and creative flair are unmatched. His work on our project was instrumental in boosting our digital presence, and his ability to deliver quality results under tight deadlines makes him an invaluable partner.",
+    name: "John Mitchell",
+    title: "Founder & CEO of NextGen Digital",
   },
 ];
 
@@ -205,16 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/abdurrahman482937"
+    link: "https://github.com/abdurrahman482937",
   },
   {
     id: 2,
     img: "/twit.svg",
-    link: "https://github.com/abdurrahman482937"
+    link: "https://github.com/abdurrahman482937",
   },
   {
     id: 3,
     img: "/link.svg",
-    link: "https://github.com/abdurrahman482937"
+    link: "https://github.com/abdurrahman482937",
   },
 ];
